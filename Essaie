@@ -1,0 +1,23 @@
+# ========== JOUR 1: VARIABLES & TYPES ==========
+# Tu dois ranger tes informations financières dans des "boîtes"
+
+# BOÎTE 1: Prix d'une action
+prix_action_orange = 1500
+print("Prix de l'action Orange:", prix_action_orange)
+
+# BOÎTE 2: Nombre d'actions que tu possèdes
+quantite = 10
+print("Quantité d'actions:", quantite)
+
+# BOÎTE 3: Prix avec décimales (rendement)
+rendement_pourcent = 3.5
+print("Rendement:", rendement_pourcent, "%")
+
+# BOÎTE 4: Tu veux acheter? Oui ou Non
+tu_veux_acheter = True
+print("Veux-tu acheter?", tu_veux_acheter)
+# Vérifier le type de chaque variable (outil de diagnostic)
+print("Type de prix_action_orange:", type(prix_action_orange))
+print("Type de rendement_pourcent:", type(rendement_pourcent))
+print("Type de tu_veux_acheter:", type(tu_veux_acheter))
+
