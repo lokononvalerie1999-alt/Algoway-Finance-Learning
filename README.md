@@ -118,7 +118,7 @@ streamlit>=1.28
 **Valérie Rosemonde LOKONON** — Statisticienne & Data Analyst | Master en Statistiques
 
 [![LinkedIn](https://www.linkedin.com/in/val%C3%A9rie-rosemonde-lokonon-09a724288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FVMQIEEzRIuXx0rRTcsPOA%3D%3D)](https://www.linkedin.com/in/val%C3%A9rie-rosemonde-lokonon-09a724288/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profil-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/[ton-profil])
+[![Kaggle](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/valerielokonon)
 
 ---
 
